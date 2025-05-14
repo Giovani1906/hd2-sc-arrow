@@ -1,0 +1,43 @@
+{
+    "Version": 1,
+    "Guid": "88d1225a-b661-406e-81ee-d6b200704b40",
+    "Name": "Super Credit Arrows",
+    "Description": "Puts arrows above Super Credit piles.",
+	"IconPath": "thumbnail.png",
+    "Options": [
+        {
+            "Name": "Arrow Colour and Glow",
+            "Description": "Sets arrow colour and if it's glowing or not.",
+            "SubOptions": [
+                {
+                    "Name": "Blue Glowing",
+                    "Description": "Makes the arrow blue and glowing.",
+                    "Include": [
+                        "blue/glow"
+                    ]
+                },
+                {
+                    "Name": "Blue No Glowing",
+                    "Description": "Makes the arrow blue and not glowing.",
+                    "Include": [
+                        "blue/no_glow"
+                    ]
+                },
+				{
+                    "Name": "Purple Glowing",
+                    "Description": "Makes the arrow purple and glowing.",
+                    "Include": [
+                        "purple/glow"
+                    ]
+                },
+                {
+                    "Name": "Purple No Glowing",
+                    "Description": "Makes the arrow purple and not glowing.",
+                    "Include": [
+                        "purple/no_glow"
+                    ]
+                }
+            ]
+        }
+	]
+}
