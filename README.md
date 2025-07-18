@@ -9,12 +9,13 @@ Helldivers 2 mod that puts arrows above Super Credit piles.
 ## FAQ
 ### How do I install the mod?
 #### Using HD2ModManager
-1. Download the latest `HD2ModManager` from [here](https://www.nexusmods.com/helldivers2/mods/109).
+1. Download the latest `HD2ModManager` from [here](https://www.nexusmods.com/helldivers2/mods/109?tab=files).
 2. Download the latest mod from the icon above.
 3. Unpack the mod manager in whatever location you like and launch it.
-4. Press the `Add` button, select downloaded mod and you should have it pop up in the mod list with the name "Super Credit Arrows" and the thumbnail image being the one shown above.
-5. Click on the box left to the trash can and make sure it's checked.
-6. Press `Deploy`
+4. Press the `Add` button, select downloaded mod, and you should have it pop up in the mod list with the name "Super Credit Arrows" and the thumbnail image being the one shown above.
+5. Click on the box left to the trash can and make sure it's checked.  
+   If you'd like, you can change the appearance of the arrow by clicking the `EDIT` button above the checkbox.
+6. Press `Deploy`.
 
 Now the mod should work the next time you launch the game.
 
@@ -28,7 +29,7 @@ Now the mod should work the next time you launch the game.
 Now the mod should work the next time you launch the game.  
 > [!NOTE]  
 > This option assumes you're not using any other mods.  
-> If you're using other mods, use the option above or manage them manually.
+> If you're using other mods, use `HD2ModManager` or manage them manually.
 
 ### How do I see the arrows from afar?
 You have to do the following:
